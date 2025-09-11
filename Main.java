@@ -1,5 +1,3 @@
-package Assignment8;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -112,3 +110,4 @@ public class Main {
 interface SecurityCheck {
 	boolean pass();
 }
+
